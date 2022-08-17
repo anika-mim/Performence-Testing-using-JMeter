@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660724280532,303,GetAPI,200,OK,Thread Group 1-17,text,true,,1849,130,24,24,https://reqres.in/api/users?page=2,298,0,224
+1660724280172,663,GetAPI,200,OK,Thread Group 1-8,text,true,,1851,130,24,24,https://reqres.in/api/users?page=2,658,0,583
+1660724280297,537,GetAPI,200,OK,Thread Group 1-11,text,true,,1849,130,24,24,https://reqres.in/api/users?page=2,533,0,459
+1660724280467,368,GetAPI,200,OK,Thread Group 1-15,text,true,,1847,130,24,24,https://reqres.in/api/users?page=2,363,0,289
+1660724280141,694,GetAPI,200,OK,Thread Group 1-7,text,true,,1851,130,24,24,https://reqres.in/api/users?page=2,689,0,615
+1660724280265,570,GetAPI,200,OK,Thread Group 1-10,text,true,,1849,130,24,24,https://reqres.in/api/users?page=2,565,0,491
+1660724279957,879,GetAPI,200,OK,Thread Group 1-1,text,true,,1851,130,24,24,https://reqres.in/api/users?page=2,876,0,799
+1660724279957,879,GetAPI,200,OK,Thread Group 1-2,text,true,,1843,130,24,24,https://reqres.in/api/users?page=2,874,0,800
+1660724280063,772,GetAPI,200,OK,Thread Group 1-5,text,true,,1847,130,24,24,https://reqres.in/api/users?page=2,767,0,693
+1660724280375,460,GetAPI,200,OK,Thread Group 1-13,text,true,,1847,130,24,24,https://reqres.in/api/users?page=2,457,0,381
+1660724280421,413,GetAPI,200,OK,Thread Group 1-14,text,true,,1843,130,24,24,https://reqres.in/api/users?page=2,411,0,334
+1660724280096,738,GetAPI,200,OK,Thread Group 1-6,text,true,,1847,130,24,24,https://reqres.in/api/users?page=2,735,0,660
+1660724280018,816,GetAPI,200,OK,Thread Group 1-4,text,true,,1851,130,24,24,https://reqres.in/api/users?page=2,814,0,738
+1660724280572,262,GetAPI,200,OK,Thread Group 1-18,text,true,,1845,130,24,24,https://reqres.in/api/users?page=2,259,0,197
+1660724280344,490,GetAPI,200,OK,Thread Group 1-12,text,true,,1845,130,24,24,https://reqres.in/api/users?page=2,488,0,411
+1660724280219,615,GetAPI,200,OK,Thread Group 1-9,text,true,,1843,130,24,24,https://reqres.in/api/users?page=2,613,0,536
+1660724279986,848,GetAPI,200,OK,Thread Group 1-3,text,true,,1851,130,24,24,https://reqres.in/api/users?page=2,844,0,770
+1660724280498,336,GetAPI,200,OK,Thread Group 1-16,text,true,,1849,130,24,24,https://reqres.in/api/users?page=2,334,0,258
+1660724280613,259,GetAPI,200,OK,Thread Group 1-19,text,true,,1849,130,25,25,https://reqres.in/api/users?page=2,259,0,197
+1660724280692,247,GetAPI,200,OK,Thread Group 1-21,text,true,,1849,130,25,25,https://reqres.in/api/users?page=2,246,0,186
+1660724280681,260,GetAPI,200,OK,Thread Group 1-20,text,true,,1845,130,25,25,https://reqres.in/api/users?page=2,260,0,191
+1660724280733,246,GetAPI,200,OK,Thread Group 1-22,text,true,,1851,130,25,25,https://reqres.in/api/users?page=2,246,0,173
+1660724280772,254,GetAPI,200,OK,Thread Group 1-23,text,true,,1843,130,25,25,https://reqres.in/api/users?page=2,253,0,186
+1660724280812,257,GetAPI,200,OK,Thread Group 1-24,text,true,,1845,130,25,25,https://reqres.in/api/users?page=2,257,0,187
+1660724280852,257,GetAPI,200,OK,Thread Group 1-25,text,true,,1849,130,25,25,https://reqres.in/api/users?page=2,256,0,191
+1660724280836,407,PostAPI,201,Created,Thread Group 1-18,text,true,,809,220,25,25,https://reqres.in/api/users,407,0,0
+1660724280836,410,PostAPI,201,Created,Thread Group 1-4,text,true,,814,220,25,25,https://reqres.in/api/users,410,0,0
+1660724280836,410,PostAPI,201,Created,Thread Group 1-13,text,true,,809,220,25,25,https://reqres.in/api/users,410,0,0
+1660724280836,410,PostAPI,201,Created,Thread Group 1-3,text,true,,819,220,25,25,https://reqres.in/api/users,410,0,0
+1660724280836,412,PostAPI,201,Created,Thread Group 1-7,text,true,,815,220,25,25,https://reqres.in/api/users,412,0,0
+1660724280836,417,PostAPI,201,Created,Thread Group 1-12,text,true,,813,220,25,25,https://reqres.in/api/users,417,0,0
+1660724280836,420,PostAPI,201,Created,Thread Group 1-8,text,true,,813,220,25,25,https://reqres.in/api/users,420,0,0
+1660724280836,422,PostAPI,201,Created,Thread Group 1-15,text,true,,815,220,25,25,https://reqres.in/api/users,422,0,0
+1660724280836,422,PostAPI,201,Created,Thread Group 1-1,text,true,,811,220,25,25,https://reqres.in/api/users,422,0,0
+1660724280836,425,PostAPI,201,Created,Thread Group 1-6,text,true,,809,220,25,25,https://reqres.in/api/users,425,0,0
+1660724280836,429,PostAPI,201,Created,Thread Group 1-17,text,true,,813,220,25,25,https://reqres.in/api/users,429,0,0
+1660724280836,429,PostAPI,201,Created,Thread Group 1-14,text,true,,815,220,25,25,https://reqres.in/api/users,429,0,0
+1660724280838,428,PostAPI,201,Created,Thread Group 1-9,text,true,,804,220,25,25,https://reqres.in/api/users,428,0,0
+1660724280836,433,PostAPI,201,Created,Thread Group 1-10,text,true,,809,220,25,25,https://reqres.in/api/users,433,0,0
+1660724280836,439,PostAPI,201,Created,Thread Group 1-16,text,true,,809,220,25,25,https://reqres.in/api/users,439,0,0
+1660724280836,441,PostAPI,201,Created,Thread Group 1-2,text,true,,813,220,25,25,https://reqres.in/api/users,441,0,0
+1660724280836,441,PostAPI,201,Created,Thread Group 1-5,text,true,,807,220,25,25,https://reqres.in/api/users,441,0,0
+1660724280836,461,PostAPI,201,Created,Thread Group 1-11,text,true,,813,220,25,25,https://reqres.in/api/users,461,0,0
+1660724280873,476,PostAPI,201,Created,Thread Group 1-19,text,true,,807,220,25,25,https://reqres.in/api/users,476,0,0
+1660724280939,416,PostAPI,201,Created,Thread Group 1-21,text,true,,809,220,25,25,https://reqres.in/api/users,416,0,0
+1660724280941,422,PostAPI,201,Created,Thread Group 1-20,text,true,,815,220,25,25,https://reqres.in/api/users,422,0,0
+1660724280980,413,PostAPI,201,Created,Thread Group 1-22,text,true,,809,220,25,25,https://reqres.in/api/users,413,0,0
+1660724281026,448,PostAPI,201,Created,Thread Group 1-23,text,true,,815,220,25,25,https://reqres.in/api/users,448,0,0
+1660724281070,446,PostAPI,201,Created,Thread Group 1-24,text,true,,811,220,25,25,https://reqres.in/api/users,446,0,0
+1660724281109,438,PostAPI,201,Created,Thread Group 1-25,text,true,,809,220,25,25,https://reqres.in/api/users,438,0,0
+1660724281246,414,PUTAPI,200,OK,Thread Group 1-4,text,true,,797,228,25,25,https://reqres.in/api/users/2,414,0,0
+1660724281253,407,PUTAPI,200,OK,Thread Group 1-12,text,true,,805,228,25,25,https://reqres.in/api/users/2,407,0,0
+1660724281246,414,PUTAPI,200,OK,Thread Group 1-3,text,true,,799,228,25,25,https://reqres.in/api/users/2,414,0,0
+1660724281259,401,PUTAPI,200,OK,Thread Group 1-15,text,true,,795,228,25,25,https://reqres.in/api/users/2,401,0,0
+1660724281256,405,PUTAPI,200,OK,Thread Group 1-8,text,true,,799,228,25,25,https://reqres.in/api/users/2,405,0,0
+1660724281259,408,PUTAPI,200,OK,Thread Group 1-1,text,true,,799,228,25,25,https://reqres.in/api/users/2,408,0,0
+1660724281244,423,PUTAPI,200,OK,Thread Group 1-18,text,true,,795,228,25,25,https://reqres.in/api/users/2,423,0,0
+1660724281246,432,PUTAPI,200,OK,Thread Group 1-13,text,true,,793,228,25,25,https://reqres.in/api/users/2,431,0,0
+1660724281248,431,PUTAPI,200,OK,Thread Group 1-7,text,true,,799,228,25,25,https://reqres.in/api/users/2,430,0,0
+1660724281277,404,PUTAPI,200,OK,Thread Group 1-5,text,true,,793,228,25,25,https://reqres.in/api/users/2,404,0,0
+1660724281262,427,PUTAPI,200,OK,Thread Group 1-6,text,true,,793,228,25,25,https://reqres.in/api/users/2,427,0,0
+1660724281265,424,PUTAPI,200,OK,Thread Group 1-14,text,true,,793,228,25,25,https://reqres.in/api/users/2,424,0,0
+1660724281267,422,PUTAPI,200,OK,Thread Group 1-9,text,true,,795,228,25,25,https://reqres.in/api/users/2,422,0,0
+1660724281270,428,PUTAPI,200,OK,Thread Group 1-10,text,true,,791,228,25,25,https://reqres.in/api/users/2,428,0,0
+1660724281275,426,PUTAPI,200,OK,Thread Group 1-16,text,true,,797,228,25,25,https://reqres.in/api/users/2,426,0,0
+1660724281277,428,PUTAPI,200,OK,Thread Group 1-2,text,true,,793,228,25,25,https://reqres.in/api/users/2,428,0,0
+1660724281265,444,PUTAPI,200,OK,Thread Group 1-17,text,true,,797,228,25,25,https://reqres.in/api/users/2,444,0,0
+1660724281297,416,PUTAPI,200,OK,Thread Group 1-11,text,true,,795,228,25,25,https://reqres.in/api/users/2,416,0,0
+1660724281355,404,PUTAPI,200,OK,Thread Group 1-21,text,true,,799,228,25,25,https://reqres.in/api/users/2,404,0,0
+1660724281349,423,PUTAPI,200,OK,Thread Group 1-19,text,true,,801,228,25,25,https://reqres.in/api/users/2,423,0,0
+1660724281363,454,PUTAPI,200,OK,Thread Group 1-20,text,true,,795,228,25,25,https://reqres.in/api/users/2,454,0,0
+1660724281394,488,PUTAPI,200,OK,Thread Group 1-22,text,true,,793,228,25,25,https://reqres.in/api/users/2,488,0,0
+1660724281475,433,PUTAPI,200,OK,Thread Group 1-23,text,true,,797,228,25,25,https://reqres.in/api/users/2,433,0,0
+1660724281517,419,PUTAPI,200,OK,Thread Group 1-24,text,true,,799,228,25,25,https://reqres.in/api/users/2,419,0,0
+1660724281548,401,PUTAPI,200,OK,Thread Group 1-25,text,true,,793,228,25,25,https://reqres.in/api/users/2,401,0,0
+1660724281667,399,DeleteAPI,204,No Content,Thread Group 1-18,,true,,716,211,25,25,https://reqres.in/api/users/2,0,0,0
+1660724281660,422,DeleteAPI,204,No Content,Thread Group 1-3,,true,,714,211,24,24,https://reqres.in/api/users/2,0,0,0
+1660724281661,423,DeleteAPI,204,No Content,Thread Group 1-8,,true,,708,211,23,23,https://reqres.in/api/users/2,0,0,0
+1660724281660,431,DeleteAPI,204,No Content,Thread Group 1-12,,true,,716,211,22,22,https://reqres.in/api/users/2,0,0,0
+1660724281660,434,DeleteAPI,204,No Content,Thread Group 1-15,,true,,716,211,21,21,https://reqres.in/api/users/2,0,0,0
+1660724281667,429,DeleteAPI,204,No Content,Thread Group 1-1,,true,,708,211,20,20,https://reqres.in/api/users/2,0,0,0
+1660724281660,436,DeleteAPI,204,No Content,Thread Group 1-4,,true,,712,211,20,20,https://reqres.in/api/users/2,0,0,0
+1660724281679,420,DeleteAPI,204,No Content,Thread Group 1-7,,true,,714,211,18,18,https://reqres.in/api/users/2,0,0,0
+1660724281678,421,DeleteAPI,204,No Content,Thread Group 1-13,,true,,724,211,18,18,https://reqres.in/api/users/2,0,0,0
+1660724281682,417,DeleteAPI,204,No Content,Thread Group 1-5,,true,,716,211,18,18,https://reqres.in/api/users/2,0,0,0
+1660724281690,412,DeleteAPI,204,No Content,Thread Group 1-14,,true,,718,211,15,15,https://reqres.in/api/users/2,0,0,0
+1660724281690,428,DeleteAPI,204,No Content,Thread Group 1-9,,true,,722,211,14,14,https://reqres.in/api/users/2,0,0,0
+1660724281698,431,DeleteAPI,204,No Content,Thread Group 1-10,,true,,708,211,13,13,https://reqres.in/api/users/2,0,0,0
+1660724281689,448,DeleteAPI,204,No Content,Thread Group 1-6,,true,,712,211,12,12,https://reqres.in/api/users/2,0,0,0
+1660724281701,439,DeleteAPI,204,No Content,Thread Group 1-16,,true,,712,211,11,11,https://reqres.in/api/users/2,0,0,0
+1660724281710,436,DeleteAPI,204,No Content,Thread Group 1-17,,true,,716,211,10,10,https://reqres.in/api/users/2,0,0,0
+1660724281706,445,DeleteAPI,204,No Content,Thread Group 1-2,,true,,720,211,9,9,https://reqres.in/api/users/2,0,0,0
+1660724281713,462,DeleteAPI,204,No Content,Thread Group 1-11,,true,,720,211,8,8,https://reqres.in/api/users/2,0,0,0
+1660724281760,418,DeleteAPI,204,No Content,Thread Group 1-21,,true,,718,211,7,7,https://reqres.in/api/users/2,0,0,0
+1660724281772,434,DeleteAPI,204,No Content,Thread Group 1-19,,true,,712,211,6,6,https://reqres.in/api/users/2,0,0,0
+1660724281818,421,DeleteAPI,204,No Content,Thread Group 1-20,,true,,720,211,5,5,https://reqres.in/api/users/2,0,0,0
+1660724281909,424,DeleteAPI,204,No Content,Thread Group 1-23,,true,,722,211,4,4,https://reqres.in/api/users/2,0,0,0
+1660724281936,401,DeleteAPI,204,No Content,Thread Group 1-24,,true,,712,211,3,3,https://reqres.in/api/users/2,0,0,0
+1660724281883,479,DeleteAPI,204,No Content,Thread Group 1-22,,true,,710,211,2,2,https://reqres.in/api/users/2,0,0,0
+1660724281949,430,DeleteAPI,204,No Content,Thread Group 1-25,,true,,716,211,1,1,https://reqres.in/api/users/2,0,0,0
